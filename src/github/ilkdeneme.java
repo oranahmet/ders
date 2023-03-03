@@ -1,6 +1,7 @@
 package github;
 
 public class ilkdeneme {
-//yazı yazıyorum
+//1. adim yaziyorum
+//2. adim olustu
 	
 }
